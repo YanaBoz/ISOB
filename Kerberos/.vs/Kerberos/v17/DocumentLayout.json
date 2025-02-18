@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rep\\ISOB\\Kerberos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|d:\\rep\\isob\\kerberos\\lab3.ui\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|solutionrelative:lab3.ui\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|d:\\rep\\isob\\kerberos\\lab3.ui\\src\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|solutionrelative:lab3.ui\\src\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:210250908:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\Rep\\ISOB\\Kerberos\\lab3.ui\\src\\App.jsx",
+              "RelativeDocumentMoniker": "lab3.ui\\src\\App.jsx",
+              "ToolTip": "D:\\Rep\\ISOB\\Kerberos\\lab3.ui\\src\\App.jsx",
+              "RelativeToolTip": "lab3.ui\\src\\App.jsx",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-18T21:45:59.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "store.js",
+              "DocumentMoniker": "D:\\Rep\\ISOB\\Kerberos\\lab3.ui\\src\\store.js",
+              "RelativeDocumentMoniker": "lab3.ui\\src\\store.js",
+              "ToolTip": "D:\\Rep\\ISOB\\Kerberos\\lab3.ui\\src\\store.js",
+              "RelativeToolTip": "lab3.ui\\src\\store.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T21:45:57.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

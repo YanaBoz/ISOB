@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{849D423D-AFC4-4E04-8AE3-A5C3C739D85D}|Lab3\\Lab3.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849D423D-AFC4-4E04-8AE3-A5C3C739D85D}|Lab3\\Lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2C2A2-F30F-4180-8405-7C4F81E669AB}|KerberosServer\\KerberosServer.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\kerberosserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2C2A2-F30F-4180-8405-7C4F81E669AB}|KerberosServer\\KerberosServer.csproj|solutionrelative:kerberosserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FE8F3D-91BC-413C-B567-102703CB0AFD}|KerberosClient\\KerberosClient.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\kerberosclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FE8F3D-91BC-413C-B567-102703CB0AFD}|KerberosClient\\KerberosClient.csproj|solutionrelative:kerberosclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEB02DB-2516-459A-8769-9EB77958B995}|Lab3.API\\Lab3.API.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABEB02DB-2516-459A-8769-9EB77958B995}|Lab3.API\\Lab3.API.csproj|solutionrelative:lab3.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849D423D-AFC4-4E04-8AE3-A5C3C739D85D}|Lab3\\Lab3.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3\\kerberosserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849D423D-AFC4-4E04-8AE3-A5C3C739D85D}|Lab3\\Lab3.csproj|solutionrelative:lab3\\kerberosserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849D423D-AFC4-4E04-8AE3-A5C3C739D85D}|Lab3\\Lab3.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3\\kerberosclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849D423D-AFC4-4E04-8AE3-A5C3C739D85D}|Lab3\\Lab3.csproj|solutionrelative:lab3\\kerberosclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.ui\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|solutionrelative:lab3.ui\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D03025B-19EC-4924-80D7-021814EF3EF5}|Lab3.Kerberos\\Lab3.Kerberos.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.kerberos\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D03025B-19EC-4924-80D7-021814EF3EF5}|Lab3.Kerberos\\Lab3.Kerberos.csproj|solutionrelative:lab3.kerberos\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEB02DB-2516-459A-8769-9EB77958B995}|Lab3.API\\Lab3.API.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEB02DB-2516-459A-8769-9EB77958B995}|Lab3.API\\Lab3.API.csproj|solutionrelative:lab3.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.ui\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|solutionrelative:lab3.ui\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.ui\\src\\components\\books.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|solutionrelative:lab3.ui\\src\\components\\books.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEB02DB-2516-459A-8769-9EB77958B995}|Lab3.API\\Lab3.API.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEB02DB-2516-459A-8769-9EB77958B995}|Lab3.API\\Lab3.API.csproj|solutionrelative:lab3.api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D03025B-19EC-4924-80D7-021814EF3EF5}|Lab3.Kerberos\\Lab3.Kerberos.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.kerberos\\data\\kerberosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D03025B-19EC-4924-80D7-021814EF3EF5}|Lab3.Kerberos\\Lab3.Kerberos.csproj|solutionrelative:lab3.kerberos\\data\\kerberosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.ui\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|solutionrelative:lab3.ui\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.ui\\src\\components\\authform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|solutionrelative:lab3.ui\\src\\components\\authform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.ui\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|solutionrelative:lab3.ui\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.ui\\src\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|solutionrelative:lab3.ui\\src\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D03025B-19EC-4924-80D7-021814EF3EF5}|Lab3.Kerberos\\Lab3.Kerberos.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.kerberos\\models\\kerberosticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D03025B-19EC-4924-80D7-021814EF3EF5}|Lab3.Kerberos\\Lab3.Kerberos.csproj|solutionrelative:lab3.kerberos\\models\\kerberosticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D03025B-19EC-4924-80D7-021814EF3EF5}|Lab3.Kerberos\\Lab3.Kerberos.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.kerberos\\models\\serviceticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D03025B-19EC-4924-80D7-021814EF3EF5}|Lab3.Kerberos\\Lab3.Kerberos.csproj|solutionrelative:lab3.kerberos\\models\\serviceticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.ui\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ED79D326-A1B6-4621-B93D-A0D65B108B14}|lab3.ui\\lab3.ui.esproj|solutionrelative:lab3.ui\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEB02DB-2516-459A-8769-9EB77958B995}|Lab3.API\\Lab3.API.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEB02DB-2516-459A-8769-9EB77958B995}|Lab3.API\\Lab3.API.csproj|solutionrelative:lab3.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D03025B-19EC-4924-80D7-021814EF3EF5}|Lab3.Kerberos\\Lab3.Kerberos.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.kerberos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D03025B-19EC-4924-80D7-021814EF3EF5}|Lab3.Kerberos\\Lab3.Kerberos.csproj|solutionrelative:lab3.kerberos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEB02DB-2516-459A-8769-9EB77958B995}|Lab3.API\\Lab3.API.csproj|v:\\bsuir\\3k2s\\\u0438\u0441\u043E\u0431\\kerberos\\lab3.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEB02DB-2516-459A-8769-9EB77958B995}|Lab3.API\\Lab3.API.csproj|solutionrelative:lab3.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:210250908:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\KerberosServer\\Program.cs",
+              "RelativeDocumentMoniker": "KerberosServer\\Program.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\KerberosServer\\Program.cs",
+              "RelativeToolTip": "KerberosServer\\Program.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:01:10.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KerberosServer.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3\\KerberosServer.cs",
+              "RelativeDocumentMoniker": "Lab3\\KerberosServer.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3\\KerberosServer.cs",
+              "RelativeToolTip": "Lab3\\KerberosServer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:58:29.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KerberosClient.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3\\KerberosClient.cs",
+              "RelativeDocumentMoniker": "Lab3\\KerberosClient.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3\\KerberosClient.cs",
+              "RelativeToolTip": "Lab3\\KerberosClient.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:58:20.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab3.API\\appsettings.json",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.API\\appsettings.json",
+              "RelativeToolTip": "Lab3.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T18:43:14.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.jsx",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\App.jsx",
+              "RelativeDocumentMoniker": "lab3.ui\\src\\App.jsx",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\App.jsx",
+              "RelativeToolTip": "lab3.ui\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-18T18:38:54.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Lab3.API\\Controllers\\BookController.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Lab3.API\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:42:36.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3\\Program.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3\\Program.cs",
+              "RelativeToolTip": "Lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:50:21.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\KerberosClient\\Program.cs",
+              "RelativeDocumentMoniker": "KerberosClient\\Program.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\KerberosClient\\Program.cs",
+              "RelativeToolTip": "KerberosClient\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:00:57.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KerberosDbContext.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.Kerberos\\Data\\KerberosDbContext.cs",
+              "RelativeDocumentMoniker": "Lab3.Kerberos\\Data\\KerberosDbContext.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.Kerberos\\Data\\KerberosDbContext.cs",
+              "RelativeToolTip": "Lab3.Kerberos\\Data\\KerberosDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:46:13.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NavBar.jsx",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\components\\NavBar.jsx",
+              "RelativeDocumentMoniker": "lab3.ui\\src\\components\\NavBar.jsx",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\components\\NavBar.jsx",
+              "RelativeToolTip": "lab3.ui\\src\\components\\NavBar.jsx",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-18T19:22:27.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.Kerberos\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Lab3.Kerberos\\Controllers\\AuthController.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.Kerberos\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Lab3.Kerberos\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowGIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:46:14.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthForm.jsx",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\components\\AuthForm.jsx",
+              "RelativeDocumentMoniker": "lab3.ui\\src\\components\\AuthForm.jsx",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\components\\AuthForm.jsx",
+              "RelativeToolTip": "lab3.ui\\src\\components\\AuthForm.jsx",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-18T19:22:36.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.API\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Lab3.API\\Models\\Book.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.API\\Models\\Book.cs",
+              "RelativeToolTip": "Lab3.API\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:32:17.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Books.jsx",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\components\\Books.jsx",
+              "RelativeDocumentMoniker": "lab3.ui\\src\\components\\Books.jsx",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\components\\Books.jsx",
+              "RelativeToolTip": "lab3.ui\\src\\components\\Books.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-18T19:22:44.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\components\\Home.jsx",
+              "RelativeDocumentMoniker": "lab3.ui\\src\\components\\Home.jsx",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\components\\Home.jsx",
+              "RelativeToolTip": "lab3.ui\\src\\components\\Home.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-18T19:22:52.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "store.js",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\store.js",
+              "RelativeDocumentMoniker": "lab3.ui\\src\\store.js",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\store.js",
+              "RelativeToolTip": "lab3.ui\\src\\store.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T19:23:10.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.css",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\App.css",
+              "RelativeDocumentMoniker": "lab3.ui\\src\\App.css",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\App.css",
+              "RelativeToolTip": "lab3.ui\\src\\App.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T19:28:43.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceTicketRequest.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.Kerberos\\Models\\ServiceTicketRequest.cs",
+              "RelativeDocumentMoniker": "Lab3.Kerberos\\Models\\ServiceTicketRequest.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.Kerberos\\Models\\ServiceTicketRequest.cs",
+              "RelativeToolTip": "Lab3.Kerberos\\Models\\ServiceTicketRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:52:11.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.Kerberos\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.Kerberos\\Program.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.Kerberos\\Program.cs",
+              "RelativeToolTip": "Lab3.Kerberos\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:50:08.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KerberosTicket.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.Kerberos\\Models\\KerberosTicket.cs",
+              "RelativeDocumentMoniker": "Lab3.Kerberos\\Models\\KerberosTicket.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.Kerberos\\Models\\KerberosTicket.cs",
+              "RelativeToolTip": "Lab3.Kerberos\\Models\\KerberosTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:54:14.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "index.css",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\index.css",
+              "RelativeDocumentMoniker": "lab3.ui\\src\\index.css",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\lab3.ui\\src\\index.css",
+              "RelativeToolTip": "lab3.ui\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T19:08:00.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.API\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.API\\Program.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.API\\Program.cs",
+              "RelativeToolTip": "Lab3.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:05:03.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lab3.API\\Data\\AppDbContext.cs",
+              "ToolTip": "V:\\BSUIR\\3k2s\\\u0418\u0421\u041E\u0411\\Kerberos\\Lab3.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Lab3.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:28:22.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

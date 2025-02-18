@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3", "Lab3\Lab3.csproj", "{849D423D-AFC4-4E04-8AE3-A5C3C739D85D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.API", "Lab3.API\Lab3.API.csproj", "{ABEB02DB-2516-459A-8769-9EB77958B995}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0D03025B-19EC-4924-80D7-021814EF3EF5} = {0D03025B-19EC-4924-80D7-021814EF3EF5}
+	EndProjectSection
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "lab3.ui", "lab3.ui\lab3.ui.esproj", "{ED79D326-A1B6-4621-B93D-A0D65B108B14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.Kerberos", "Lab3.Kerberos\Lab3.Kerberos.csproj", "{0D03025B-19EC-4924-80D7-021814EF3EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerberosClient", "KerberosClient\KerberosClient.csproj", "{13FE8F3D-91BC-413C-B567-102703CB0AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerberosServer", "KerberosServer\KerberosServer.csproj", "{52A2C2A2-F30F-4180-8405-7C4F81E669AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849D423D-AFC4-4E04-8AE3-A5C3C739D85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849D423D-AFC4-4E04-8AE3-A5C3C739D85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849D423D-AFC4-4E04-8AE3-A5C3C739D85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849D423D-AFC4-4E04-8AE3-A5C3C739D85D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEB02DB-2516-459A-8769-9EB77958B995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEB02DB-2516-459A-8769-9EB77958B995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEB02DB-2516-459A-8769-9EB77958B995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEB02DB-2516-459A-8769-9EB77958B995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED79D326-A1B6-4621-B93D-A0D65B108B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED79D326-A1B6-4621-B93D-A0D65B108B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED79D326-A1B6-4621-B93D-A0D65B108B14}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ED79D326-A1B6-4621-B93D-A0D65B108B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED79D326-A1B6-4621-B93D-A0D65B108B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED79D326-A1B6-4621-B93D-A0D65B108B14}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0D03025B-19EC-4924-80D7-021814EF3EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D03025B-19EC-4924-80D7-021814EF3EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D03025B-19EC-4924-80D7-021814EF3EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D03025B-19EC-4924-80D7-021814EF3EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13FE8F3D-91BC-413C-B567-102703CB0AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FE8F3D-91BC-413C-B567-102703CB0AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FE8F3D-91BC-413C-B567-102703CB0AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FE8F3D-91BC-413C-B567-102703CB0AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A2C2A2-F30F-4180-8405-7C4F81E669AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A2C2A2-F30F-4180-8405-7C4F81E669AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A2C2A2-F30F-4180-8405-7C4F81E669AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A2C2A2-F30F-4180-8405-7C4F81E669AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

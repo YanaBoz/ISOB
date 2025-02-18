@@ -1,0 +1,6 @@
+@Lab3.Kerberos_HostAddress = http://localhost:5191
+
+GET {{Lab3.Kerberos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

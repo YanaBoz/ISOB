@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "Lab3.API\\Lab3.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "lab3.ui\\lab3.ui.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Lab3.Kerberos\\Lab3.Kerberos.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Новый профиль (1)",
+    "Projects": [
+      {
+        "Path": "KerberosClient\\KerberosClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "KerberosServer\\KerberosServer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
